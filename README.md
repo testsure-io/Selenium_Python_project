@@ -1,7 +1,3 @@
-Here's a **README.md** file for your Selenium-based BDD test suite using Behave:
-
----
-
 # Selenium BDD Automation with Behave
 
 This project demonstrates browser automation using Selenium and BDD (Behavior-Driven Development) with Behave. The test suite automates key user interactions on the [SauceDemo](https://www.saucedemo.com) website.
